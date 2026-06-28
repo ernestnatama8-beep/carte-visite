@@ -86,12 +86,3 @@ h1 {
     height: 100px;
   }
 }
-.social {
-  margin-top: 15px;
-}
-
-.social a {
-  text-decoration: underline;
-  color: blue;
-  font-size: 25px;
-}
